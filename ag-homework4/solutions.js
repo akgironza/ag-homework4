@@ -38,8 +38,10 @@ const bankInfo = {
 
 /*
 function bankAccountSummary(moneyStuff){
+    
+    
     const sumBankInfo = Object.values(moneyStuff);
-    console.log(sumBankInfo.reduce);
+    // here i want to use reduce
 }
 
 bankAccountSummary(bankInfo);
